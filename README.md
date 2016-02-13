@@ -9,7 +9,7 @@ html kods
 Labrīt!
 <hr/>
 <h4>dokumenta kods</h4>
-<p>Mācies HTML!</p>
+<p>Es, Vitālijs Volkovs saku:Mācies HTML!</p>
 <hr/>
 <br/>
 Sveiks!
