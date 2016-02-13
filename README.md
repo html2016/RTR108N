@@ -1,8 +1,6 @@
 # RTR108N
 html kods
 
-  GNU nano 2.2.6                   File: index.html                                              
-
 <html>
 
 <meta charset="UTF-8">
