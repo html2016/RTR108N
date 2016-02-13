@@ -23,7 +23,7 @@ Sveiks!
 
 <h4>Šī dokumenta kods</h4>
 <pre>
-<html></html>
+&lt;html&gt; &lt;/html&gt;
 </pre>
 
 </html>
