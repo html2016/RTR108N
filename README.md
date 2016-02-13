@@ -5,8 +5,8 @@ html kods
 
 <html>
 
-        <meta charset="UTF-8">
-        <title>Mans WEB dokuments</title>
+<meta charset="UTF-8">
+<title>Mans WEB dokuments</title>
 
 Labrīt!
 <hr/>
